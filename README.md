@@ -1,3 +1,3 @@
 # SolidWorksAutomation
 
-- This project is created to learn to do automate solidworks using FlaUI
+- This project is used to experiment with automate solidworks using FlaUI
