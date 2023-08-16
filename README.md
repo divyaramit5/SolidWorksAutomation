@@ -4,3 +4,5 @@
 
 - The tool used for automation is FlaUI
 FlaUI tool is installed 
+
+Experimenting with git
